@@ -16,10 +16,10 @@ When not working, I enjoy playing soccer, discovering new mountain biking and hi
 - Security assessments & penetration testing, social engineering assessments, red/blue teaming.
 - Systems Auditing
 
-## Technologies
-- Programming Languages: Shell, Python, C/C++, PHP
+## Technologies & Tools of Trade
+- Programming Languages: Shell, Python, PHP, Javascript
 - Cloud: AWS, Terraform, Terraform Cloud
-- Configuration Management: Ansible, Chef
+- Configuration Management: Ansible, Chef, Vagrant
 - CI/CD: CircleCI, GitLab, Github Actions
 - SAST: Sonarqube, Snyk, Checkmarx
 - DAST: Rapid7 InsightAppsec, OWASP ZAP, Burp Suite, Stackhawk
